@@ -1,6 +1,9 @@
-/** Licensed under GPLv2
- * Copyright (C) 2016 duelistgamer
- * Full text here: https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
+/** Copyright (C) 2016 duelistgamer
+ * Licensed under GPLv2. Re-licensing under the terms of later revisions of
+ * the GPL is expressly forbidden under all circumstances.
+ *
+ * Full text of the GPLv2 can be found here:
+ * https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html
  */
 
 #include<iostream>
